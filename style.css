@@ -1,3 +1,11 @@
 li {
     margin-bottom: 20px;
 }
+
+:root {
+    --contrast-color: rgba(65, 217, 255, 0.205)
+}
+
+#favgames {
+    background-color: var(--contrast-color);;
+}
